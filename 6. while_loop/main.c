@@ -8,6 +8,4 @@ int main()
         printf("%d\n", count);
         count ++;
     }
-
-
 }

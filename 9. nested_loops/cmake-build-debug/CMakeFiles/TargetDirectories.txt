@@ -1,0 +1,3 @@
+/Users/motoze/Desktop/C_Practice/9. nested_loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/motoze/Desktop/C_Practice/9. nested_loops/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/motoze/Desktop/C_Practice/9. nested_loops/cmake-build-debug/CMakeFiles/9__nested_loops.dir
