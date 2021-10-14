@@ -20,4 +20,6 @@ int main()
 
     printf("p1->bookYear : %d\n", p1->bookYear);
     printf("p1->bookName : %s\n", p1->bookName);
+
+
 }
