@@ -15,9 +15,9 @@ typedef struct student student;
 
 int main()
 {
-    student s1;
+    student s1 = {0};   //這樣也可以清空struct裡的髒東西
 
-    memset(&s1, 0, sizeof(s1));
+    memset(&s1, 0, sizeof(s1)); //清空struct裡的髒東西
 
     printf("s1.id : %d\n", s1.id);
     printf("s1.name : %s\n", s1.name);
