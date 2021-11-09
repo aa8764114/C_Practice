@@ -2,15 +2,17 @@
 
 typedef void (*func)(int);
 
+struct Book{
+    func f1;
+};
+
 void add1(int num)
 {
     num += 1;
     printf("num  : %d\n", num);
 }
 
-struct Book{
-    func f1;
-};
+
 int main()
 {
     struct Book b1;
