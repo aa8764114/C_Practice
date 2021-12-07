@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/motosawa/Documents/C語言練習/56. printf/library.c
+library.h
+/Users/motosawa/Documents/C語言練習/56. printf/library.h
+stdio.h
+-
+
+/Users/motosawa/Documents/C語言練習/56. printf/library.h
+

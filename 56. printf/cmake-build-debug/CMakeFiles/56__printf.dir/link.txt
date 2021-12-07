@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc lib56__printf.a CMakeFiles/56__printf.dir/library.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib lib56__printf.a

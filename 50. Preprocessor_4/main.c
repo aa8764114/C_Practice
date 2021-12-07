@@ -52,5 +52,6 @@ int main()
         printf("MAC_OS_VERSION_11_0 : %d\n", MAC_OS_VERSION_11_0);
     #endif
 
+    printf("\t正嘉義\t雞肉飯\t\n");
 
 }
