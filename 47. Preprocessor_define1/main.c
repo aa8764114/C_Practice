@@ -29,5 +29,6 @@ int main()
     #define BAR "world"
     printf("BAR : %s\n", BAR);
 
+    typeof(FOO);
 
 }
